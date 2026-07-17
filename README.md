@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @yamak17
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
-- 📫 How to reach me ...
+How to reach me ...
               yamakhwaja@gmail.com
 
 <!---
